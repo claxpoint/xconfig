@@ -6,7 +6,7 @@
 
 Free AIO V2ray,Warp,Sub,... Config Collector - Updating every 1hour
 
-> Official version of [NetBaan NetworkTool Projects](https://github.com/netbaan) and [NikUi GUI Panel Theme](https://github.com/nikui)
+> Official version of [NetBaan NetworkTool Projects](https://github.com/netbaan) and [NikUi GUI Panel Theme](https://github.com/claxpoint/nikui)
 - Moein Nikchehre, AKA Claxpoint
 
 <b>"Internet, for all or none!"</b>
