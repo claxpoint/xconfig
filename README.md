@@ -100,7 +100,7 @@ Free AIO V2ray,Warp,Sub,... Config Collector - Updating every 1hour
 NetBaan is a free-source project that helps people have a better Internet Quality and FilterBreak Access to the internet with its own NetworkTools.
 
 > For support us and make our projects better and more stable, please give us a star!
-> We always make you high Yoosef/Segaro/Claxpoint! ...
+> We always make you proud Yoosef/Segaro/Claxpoint! ...
 
 <img src="https://contrib.rocks/image?repo=claxpoint/xConfig" align="center" alt="Contributors" />
 
