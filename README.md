@@ -6,6 +6,9 @@
 
 Free AIO V2ray,Warp,Sub,... Config Collector - Updating every 1hour
 
+> How it works:
+> TelegramChannels > GithubSources > NetBaanTerm > Xconfig
+
 > Official version of [NetBaan NetworkTool Projects](https://github.com/netbaan) and [NikUi GUI Panel Theme](https://github.com/claxpoint/marzchi)
 - Moein Nikchehre, AKA Claxpoint
 
