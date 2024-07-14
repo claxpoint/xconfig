@@ -9,6 +9,17 @@ Free AIO V2ray,Warp,Sub,... Config Collector - Updating every 1hour
 > How it works:
 > TelegramChannels > GithubSources > NetBaanTerm > Xconfig
 
+>که میتونه از ساب های گیتهاب زیادی کانفیگ ها با پروتوکل های مختلف رو بیاره توی یه دکمه راحت کپی بشه و با میکس و ساب های مختلف بتونه آدم کانفیگ رایگان برداره
+
+و هر بار خطر فیلترینگ ساب ها بیشتر شد اینا راحت سوییچ میکنن خودکار چون گربر داره
+
+با دوست عزیزم khodedawsh تونستم قشنگ تر کنم همچیو و نکات مهمو با هم همفکری کردیم
+
+یو آی زیباتر و جدید:
+https://xconfig.pages.dev
+یو آی قدیمی و ساده:
+https://old.xconfig.pages.dev
+
 > Official version of [NetBaan NetworkTool Projects](https://github.com/netbaan) and [NikUi GUI Panel Theme](https://github.com/claxpoint/marzchi)
 - Moein Nikchehre, AKA Claxpoint
 
