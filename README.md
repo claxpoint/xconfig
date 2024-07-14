@@ -72,7 +72,7 @@ Free AIO V2ray,Warp,Sub,... Config Collector - Updating every 1hour
             <td>Theme</td>
             <td>
                 :white_check_mark: LightDark (Mixed)<br>
-                :white_large_square: Dark<br>
+                :white_check_mark: Dark<br>
                 :white_check_mark: Light<br>
                 :white_large_square: Auto
             </td>
