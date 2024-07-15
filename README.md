@@ -21,7 +21,7 @@ https://xconfig.pages.dev
 https://old.xconfig.pages.dev
 
 > Official version of [NetBaan NetworkTool Projects](https://github.com/netbaan) and [NikUi GUI Panel Theme](https://github.com/claxpoint/marzchi)
-- Moein Nikchehre, AKA Claxpoint
+- Moein , AKA Claxpoint
 
 <b>"Internet, for all or none!"</b>
 
