@@ -16,8 +16,6 @@ Free AIO V2ray,Warp,Sub,... Config Collector - Updating every 1hour
 
 یو آی زیباتر و جدید:
 https://xconfig.pages.dev
-یو آی قدیمی و ساده:
-https://old.xconfig.pages.dev
 
 > Official version of [NetBaan NetworkTool Projects](https://github.com/netbaan) and [NikUi GUI Panel Theme](https://github.com/claxpoint/marzchi)
 - Moein , AKA Claxpoint
